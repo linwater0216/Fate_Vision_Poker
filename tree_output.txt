@@ -1,0 +1,272 @@
+列出磁碟區 Windows-SSD 的資料夾 PATH
+磁碟區序號為 000000E0 B6E9:53C7
+C:.
+│  tree_output.txt
+│  
+├─.vscode
+│      settings.json
+│      
+├─pc
+│  │  260825steam.py
+│  │  260906steam_中文.py
+│  │  AOF_Decision_Pro.py
+│  │  best.pt
+│  │  CoordinatePicker.py
+│  │  DuplicateImageCleaner.py
+│  │  GameVisionBase.py
+│  │  HandCardCollector.py
+│  │  ImageComparator.py
+│  │  ImageComparator_only.py
+│  │  PlayerColorAnalyzer.py
+│  │  poker.yaml
+│  │  SimpleDatasetBuilder.py
+│  │  test_env.py
+│  │  TrainModel.py
+│  │  YOLO_Hand_Tester.py
+│  │  
+│  ├─1
+│  │      2c.png
+│  │      2d.png
+│  │      2h.png
+│  │      2s.png
+│  │      3c.png
+│  │      3d.png
+│  │      3h.png
+│  │      3s.png
+│  │      4c.png
+│  │      4d.png
+│  │      4h.png
+│  │      4s.png
+│  │      5c.png
+│  │      5d.png
+│  │      5h.png
+│  │      5s.png
+│  │      6c.png
+│  │      6d.png
+│  │      6h.png
+│  │      6s.png
+│  │      7c.png
+│  │      7d.png
+│  │      7h.png
+│  │      7s.png
+│  │      8c.png
+│  │      8d.png
+│  │      8h.png
+│  │      8s.png
+│  │      9c.png
+│  │      9d.png
+│  │      9h.png
+│  │      9s.png
+│  │      ac.png
+│  │      ad.png
+│  │      ah.png
+│  │      as.png
+│  │      jc.png
+│  │      jd.png
+│  │      jh.png
+│  │      js.png
+│  │      kc.png
+│  │      kd.png
+│  │      kh.png
+│  │      ks.png
+│  │      qc.png
+│  │      qd.png
+│  │      qh.png
+│  │      qs.png
+│  │      tc.png
+│  │      td.png
+│  │      th.png
+│  │      ts.png
+│  │      
+│  ├─2
+│  │      2c.png
+│  │      2d.png
+│  │      2h.png
+│  │      2s.png
+│  │      3c.png
+│  │      3d.png
+│  │      3h.png
+│  │      3s.png
+│  │      4c.png
+│  │      4d.png
+│  │      4h.png
+│  │      4s.png
+│  │      5c.png
+│  │      5d.png
+│  │      5h.png
+│  │      5s.png
+│  │      6c.png
+│  │      6d.png
+│  │      6h.png
+│  │      6s.png
+│  │      7c.png
+│  │      7d.png
+│  │      7h.png
+│  │      7s.png
+│  │      8c.png
+│  │      8d.png
+│  │      8h.png
+│  │      8s.png
+│  │      9c.png
+│  │      9d.png
+│  │      9h.png
+│  │      9s.png
+│  │      ac.png
+│  │      ad.png
+│  │      ah.png
+│  │      as.png
+│  │      jc.png
+│  │      jd.png
+│  │      jh.png
+│  │      js.png
+│  │      kc.png
+│  │      kd.png
+│  │      kh.png
+│  │      ks.png
+│  │      qc.png
+│  │      qd.png
+│  │      qh.png
+│  │      qs.png
+│  │      tc.png
+│  │      td.png
+│  │      th.png
+│  │      ts.png
+│  │      
+│  ├─dataset
+│  │  ├─images
+│  │  │  └─train(資料夾)    
+│  │  └─labels
+│  │      └─train(資料夾)
+│  │              
+│  ├─manual_samples
+│  │      capture_20260906_011504.png
+│  │      capture_20260906_011510.png
+│  │      capture_20260906_011530.png
+│  │      capture_20260906_011613.png
+│  │      capture_20260906_011616.png
+│  │      capture_20260906_011641.png
+│  │      capture_20260906_011707.png
+│  │      capture_20260906_011708.png
+│  │      capture_20260906_011710.png
+│  │      capture_20260906_011733.png
+│  │      capture_20260906_011756.png
+│  │      capture_20260906_011831.png
+│  │      capture_20260906_011856.png
+│  │      capture_20260906_011924.png
+│  │      capture_20260906_011925.png
+│  │      capture_20260906_012000.png
+│  │      capture_20260906_012031.png
+│  │      capture_20260906_012043.png
+│  │      capture_20260906_012109.png
+│  │      capture_20260906_012116.png
+│  │      capture_20260906_012136.png
+│  │      capture_20260906_012204.png
+│  │      capture_20260906_012807.png
+│  │      capture_20260906_012942.png
+│  │      capture_20260906_012945.png
+│  │      capture_20260906_012948.png
+│  │      capture_20260906_012953.png
+│  │      capture_20260906_044524.png
+│  │      capture_20260906_044555.png
+│  │      capture_20260906_044629.png
+│  │      capture_20260906_044702.png
+│  │      capture_20260907_105334.png
+│  │      
+│  └─samp
+│          1.png
+│          2.png
+│          a.png
+│          ALL_IN - 複製.png
+│          ALL_IN.png
+│          AOF.png
+│          AOF確認.png
+│          AOF紫桌.png
+│          AOF綠桌.png
+│          AOF練習場.png
+│          AOF藍桌.png
+│          b.png
+│          c.png
+│          c_0.png
+│          c_1.png
+│          D.png
+│          d_0.png
+│          d_1.png
+│          e.png
+│          免費賽.png
+│          報名下一場.png
+│          大盲.png
+│          小盲.png
+│          棄牌.png
+│          玩法合集.png
+│          確認為免費賽.png
+│          立即報名.png
+│          籌碼拉條.png
+│          賽事.png
+│          退出玩家資訊.png
+│          
+├─pe
+│      260828sng.js
+│      
+└─計算
+    │  20260905_poker_equity_sim.py
+    │  poker_advisor.py
+    │  poker_equity_sim.py
+    │  poker_stats_2_players.csv
+    │  poker_stats_3_players.csv
+    │  poker_stats_4_players.csv
+    │  poker_stats_5_players.csv
+    │  poker_stats_6_players.csv
+    │  
+    └─7%
+            stats_2p_vpip_100.csv
+            stats_2p_vpip_20.csv
+            stats_2p_vpip_25.csv
+            stats_2p_vpip_30.csv
+            stats_2p_vpip_35.csv
+            stats_2p_vpip_40.csv
+            stats_2p_vpip_45.csv
+            stats_2p_vpip_50.csv
+            stats_2p_vpip_55.csv
+            stats_2p_vpip_60.csv
+            stats_2p_vpip_65.csv
+            stats_2p_vpip_70.csv
+            stats_2p_vpip_75.csv
+            stats_2p_vpip_80.csv
+            stats_2p_vpip_85.csv
+            stats_2p_vpip_90.csv
+            stats_2p_vpip_95.csv
+            stats_3p_vpip_100.csv
+            stats_3p_vpip_20.csv
+            stats_3p_vpip_25.csv
+            stats_3p_vpip_30.csv
+            stats_3p_vpip_35.csv
+            stats_3p_vpip_40.csv
+            stats_3p_vpip_45.csv
+            stats_3p_vpip_50.csv
+            stats_3p_vpip_55.csv
+            stats_3p_vpip_60.csv
+            stats_3p_vpip_65.csv
+            stats_3p_vpip_70.csv
+            stats_3p_vpip_75.csv
+            stats_3p_vpip_80.csv
+            stats_3p_vpip_85.csv
+            stats_3p_vpip_90.csv
+            stats_3p_vpip_95.csv
+            stats_4p_vpip_100.csv
+            stats_4p_vpip_20.csv
+            stats_4p_vpip_25.csv
+            stats_4p_vpip_30.csv
+            stats_4p_vpip_35.csv
+            stats_4p_vpip_40.csv
+            stats_4p_vpip_45.csv
+            stats_4p_vpip_50.csv
+            stats_4p_vpip_55.csv
+            stats_4p_vpip_60.csv
+            stats_4p_vpip_65.csv
+            stats_4p_vpip_70.csv
+            stats_4p_vpip_75.csv
+            stats_4p_vpip_80.csv
+            stats_4p_vpip_85.csv
+            stats_4p_vpip_90.csv
+            stats_4p_vpip_95.csv
+            

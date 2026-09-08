@@ -1,0 +1,7 @@
+.vscode/
+__pycache__/
+*.pyc
+tree_output.txt
+
+# 如果您不想上傳大量的訓練圖片，可以取消下面這行的註解
+pc/dataset/
